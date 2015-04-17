@@ -565,13 +565,21 @@ footer .footer-above{
 }
 
 .logo_footer{
-	  width: 28%;
+	  width: 15%;
   padding-top: 7%;
   float: left;
   margin-left: 5%;
 }
 
+.logo_footer_first {
+  width: 15%;
+  padding-top: 7%;
+  float: left;
+}
 
+.social_btn{
+  padding-right: 5%;
+}
 
 footer .footer-col {
   margin-bottom: 1%;
