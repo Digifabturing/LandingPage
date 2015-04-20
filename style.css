@@ -155,8 +155,7 @@ header .intro-text .skills {
 }
 
 .navbar {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
@@ -474,6 +473,11 @@ header{
 
 }
 
+.logo_header{
+  float: left;
+    padding-top: 4.5%;
+}
+
 .skills{
 	color:#4A3E38 ;
 	font-size: 30px;
@@ -634,3 +638,4 @@ section {
     padding-top: 3%;
 
 }
+
